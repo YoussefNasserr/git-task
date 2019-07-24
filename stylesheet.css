@@ -1,0 +1,132 @@
+.IM-YOUSSEF-NASSER{
+  position: relative;
+  margin-left: 10%;
+  color: #6E6E6E;
+  width: 468px;
+  height: 56px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+
+}
+.title-hamada
+{
+  width: 20%;
+  margin-left: 40%;
+  text-align: center;
+  text-decoration: underline;
+}
+.image-div
+{
+  text-align: center;
+}
+.container-1
+{
+  background-image: url("Wallpaper-v2-1600x900.jpg");
+  max-width: 100%;
+padding-top: 50px;
+padding-bottom: 50px;
+
+background-position: top;
+background-size: cover;
+background-repeat: no-repeat;
+}
+#myVideo {
+  position: relative;
+  right: 0;
+  max-height: 700px;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.Engineer{
+ position:relative;
+ padding-left: 10%;
+ font-family: Roboto;
+ font-size: 20px;
+ font-weight: normal;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: normal;
+ letter-spacing: normal;
+ color: #DADADA;
+ display: inline-block;
+
+}
+
+.info{
+ position: relative;
+
+ font-family: Roboto;
+ font-size: 22px;
+ font-weight: normal;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: normal;
+ letter-spacing: normal;
+ color: #6E6E6E;
+ margin-top: 50px;
+ margin-left: 10%;
+}
+.rectangle2{
+  position: relative;
+  border-radius: 10px;
+  width: 185px;
+  height: 65px;
+  margin-left: 10%;
+  margin-top: 5%;
+  text-align: center;
+  padding: 15px;
+  font-family: roboto;
+  font-size: 22px;
+  background-color: #0A40B6;
+  color: #DADADA;
+
+}
+a{
+  cursor: pointer;
+}
+
+img{
+
+  width: 200px;
+  padding: 50px;
+  align-content: space-around;
+
+}
+.border1{
+  position: relative;
+  background-color: #1D1D1D;
+  text-align:left;
+  color: #DADADA;
+  border: none;
+  margin-top: -6px;
+}
+.jumbotron{
+  margin: 0px;
+}
+
+  .fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+
+}
+.fa-instagram {
+  background: #1D1D1D;
+  color: white;
+}
+.fa-facebook{
+  background: #1D1D1D;
+  color: white;
+}
+.fa-google{
+  background: #1D1D1D;
+  color: white;
+}
